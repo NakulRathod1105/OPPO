@@ -1,0 +1,61 @@
+/* 
+  .phone-image {
+    border-radius: 8px;
+    max-height: 400px;
+    object-fit: cover;
+  } */
+
+  /* PhoneDetails.css */
+
+/* Image Styling */
+.phone-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.phone-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Price and Offer Section */
+.phone-price {
+  color: #333;
+}
+
+.phone-offer {
+  font-weight: bold;
+}
+
+/* Button Styling */
+.add-to-cart-button {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.add-to-cart-button:hover {
+  background-color: #343a40;
+  transform: scale(1.05);
+}
+
+/* Specs Section */
+.specs-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.specs-section li {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+.specs-section li i {
+  color: #007bff;
+  margin-right: 10px;
+}

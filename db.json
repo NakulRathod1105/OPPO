@@ -1,0 +1,353 @@
+{
+  "Phones": [
+    {
+      "id": 1,
+      "name": "OPPO Reno12 Pro 5G",
+      "offer": "Bank offer 10% off",
+      "price": 36999,
+      "originalPrice": 53999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/9w90p76WZy0zwKlz.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 2,
+      "name": "OPPO Reno12 5G",
+      "offer": "Bank offer 10% off",
+      "price": 32999,
+      "originalPrice": 43999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/YvKZMzJCqAWgRT5r.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 3,
+      "name": "OPPO F27 Pro+ 5G",
+      "offer": "7% OFF Instant discount & Exchange bonus",
+      "price": 27999,
+      "originalPrice": 32999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/05/xmVhqqrzFYRyYIsA.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 4,
+      "name": "OPPO K12x 5G",
+      "offer": "10% instant discount",
+      "price": 12999,
+      "originalPrice": 16999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/25/XR1jPDUegtdkCOl5.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+
+    {
+      "id": 5,
+      "name": "OPPO F27 5G",
+      "offer": "10% OFF Instant Discount & Exchange Extra Bonus",
+      "price": 22999,
+      "originalPrice": 26999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/15/zKnZ1JFjiSP65SvN.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 6,
+      "name": "OPPO A3 Pro 5G",
+      "offer": "Bank offer 10% off",
+      "price": 17999,
+      "originalPrice": 20999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/pYUixF1C35klxxMK.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 7,
+      "name": "OPPO A3 5G",
+      "offer": "Bank offer up to 10% off",
+      "price": 15999,
+      "originalPrice": 19999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/19/tj2fyC4Lrr5trzP1.png",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 8,
+      "name": "OPPO A3x 5G",
+      "offer": "Bank offer 10% off",
+      "price": 12499,
+      "originalPrice": 14999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/26/mnHZv7TqpOhGXJwJ.png",
+      "colors": ["#FF5733", "#33FF57", "#3357FF"],
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 9,
+      "name": "OPPO A59 5G",
+      "offer": "Bank offer 10% off",
+      "price": 15499,
+      "originalPrice": 19999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202312/20/LkMSUg1BTrUE8ZFz.png?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 10,
+      "name": "OPPO A3x 5G",
+      "offer": "Bank offer 10% off",
+      "price": 15499,
+      "originalPrice": 19999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/26/yGDoIUiWzyDw2vpi.png?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 11,
+      "name": "OPPO A3 Pro 5G",
+      "offer": "Bank offer 10% off",
+      "price": 17499,
+      "originalPrice": 20999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/BTl5EnupiCaFkK27.png?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 12,
+      "name": "OPPO A3 5G",
+      "offer": "Bank offer 10% off",
+      "price": 15999,
+      "originalPrice": 19999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/19/YAt1XTcwgRvRs8LY.png?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    },
+    {
+      "id": 13,
+      "name": "OPPO Find N3 Flip",
+      "offer": "Bank offer 10% off",
+      "price": 74999,
+      "originalPrice": 99999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202310/02/x7mvJ6GqMdnX6sXc.png?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    }
+    ,
+    {
+      "id": 14,
+      "name": "oppo F25 Pro 5G",
+      "offer": "Bank offer 10% off",
+      "price": 17999,
+      "originalPrice": 20999,
+      "image": "https://i.pinimg.com/736x/6c/93/63/6c9363fdfba8fb9a57e5e08472934fa7.jpg",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+    
+    }
+    ,
+    {
+     "id": 15,
+      "name": "oppo F25 Pro 5G",
+      "offer": "Bank offer 10% off",
+      "price": 73999,
+      "originalPrice": 80999,
+      "image": "https://i.pinimg.com/564x/37/32/ff/3732ff26f30acc483f985dff0ff2cc32.jpg",
+      "description": "Oppo phones are available in a variety of models, including the Find, Reno, and A series"
+     
+    }
+  ],
+
+  "Audio": [
+    {
+      "id": 1,
+      "name": "OPPO Enco Air3 Pro",
+      "price": 4999,
+      "originalPrice": 7999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/08/sLmayvCmA7t4mKrd.png",
+      "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 2,
+      "name": "OPPO Enco Buds2",
+      "price": 1799,
+      "originalPrice": 3999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/08/6vOxnfqlF3tG3e59.png",
+      "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 3,
+      "name": "OPPO Enco X2",
+      "price": 1799,
+      "originalPrice": 3999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/17/YSUcbcmM8Cs4RooW.png",
+      "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 4,
+      "name": "OPPO Enco Air2 Pro",
+      "price": 3499,
+      "originalPrice": 4999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/08/n8esIhOwtTx8Rsv6.png",
+     "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 5,
+      "name": "OPPO Enco M32",
+      "price": 1799,
+      "originalPrice": 3999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/26/VR4ZxCC9GfEwYHW3.png",
+      "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 6,
+      "name": "OPPO MH319  Earphones",
+      "price": 199,
+      "originalPrice": 399,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202212/27/ggX3Fr5924aMwi6v.png",
+      "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 7,
+      "name": "OPPO Type-C Earphone",
+      "price": 299,
+      "originalPrice": 599,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/26/Yst8jCsuBS13lxwV.png",
+     "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    },
+    {
+      "id": 8,
+      "name": "Oppo Headphones 3.5mm",
+      "price": 299,
+      "originalPrice": 599,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyo1KxrYfvnOlufU8_v0_8awfoN-G6BcQJC8MfleVyUiWHH6b9Cxkf_94_1GCqwDD9BTplLNc6QbRAre3sHfggc_mLAswpDSgy00TvYQyHlo3nnhPyZqdC&usqp=CAE",
+     "description": "oppo tws excellent . for all other companies tws. These earbuds offer an outstanding listening experience. The sound quality is crystal clear with deep bass and well-balanced mids and highs."
+    }
+  ],
+  "Tablet": [
+    {
+      "id": 1,
+      "name": "Oppo Pad Air",
+      "price": 1999,
+      "originalPrice": 7999,
+      "description": "A sleek and powerful tablet with a 10.36-inch display and a robust processor.",
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/17/Dh43FsClsgXYqc7G.png"
+    },
+    {
+      "id": 2,
+      "name": "Oppo Pad Pro",
+      "price": 9999,
+      "originalPrice": 10999,
+      "description": "Unleash your creativity with the OPPO Pad Pro, a powerful tablet designed for both work and play. every image and video comes to life with vibrant colors and smooth transitions.",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/oppo_pad_764.JPG"
+    }
+  ],
+  "Wearables": [
+    {
+      "id": 1,
+      "name": "OPPO OB19B1 BAND STYLE Black",
+      "price": 2999,
+      "originalPrice": 3999,
+      "description": "Wearables are electronic devices that are worn on the body and can track, analyze, and transmit personal data",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwfEH3jHTanAdoifmjT-k7glRZDUht391ttdewLoIBzFbUL0I2CXKUugIqM5pCAr1Y6llgonzUId0n4U1WPliRkkzZzghl5g3xurxI6zQzrF3xMTqKZnsYbw&usqp=CAE"
+    },
+    {
+      "id": 2,
+      "name": "OPPO Watch X - Snapdragon W5, 100-hour battery life, Sapphire",
+      "price": 9999,
+      "originalPrice": 10999,
+      "description": "Wearables are electronic devices that are worn on the body and can track, analyze",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4gF75AxhviRoe9CUZ1609jM9IKH3ZGvwjI00iqc6LAECzODGzL5j72rkXIeTkQDizAnbDPv3oweSDXukADTBIpLTZz8uMA26_Ic1ntXuSlLGYgv2hIG3a7j-p&usqp=CAE"
+    },
+    {
+      "id": 3,
+      "name": "OPPO Watch Free - Black",
+      "price": 5999,
+      "originalPrice": 11999,
+      "description": "The OPPO Watch Free combines style and functionality in a sleek design. With a vibrant AMOLED display, it offers crisp visuals for notifications.",
+      "image": "https://i.pinimg.com/564x/86/70/f3/8670f32fcd47bc53b4b9ef85c7ad02ed.jpg"
+    },
+    {
+      "id": 4,
+      "name": "OPPO Band 2 Black at Etoren",
+      "price": 3999,
+      "originalPrice": 5999,
+      "description": "The OPPO Band 2 Black is a stylish and versatile fitness tracker designed for an active lifestyle. Featuring a vibrant AMOLED display, it offers clear visibility ",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTjzpUdXE80ZyWzVRxVaRdN5E7Ilprh427lXHChOOaLg_TH587xVByqd6fTpZnlqSD3pX05Pea1kwRM9kyLV2OFDH54UaXWZs02YeyvuiyxYXXaOICWOWx7xg&usqp=CAE"
+    },
+    {
+      "id": 5,
+      "name": "OPPO Watch 3 3 Pro SmartWatch",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGugL5as4RmzEt9zrEElJ3Y-RVCAbGS29vijaPZ44Uj4VQ-uEpvpD8SGFjTD7xwnl6GOcWF1kn_Ap95DisPLodjlnhuJsCthAr2O2F5SOS&usqp=CAE",
+      "price": 30000,
+      "originalPrice": 33000,
+      "description": "The OPPO Watch 3 Pro combines cutting-edge technology with a sleek design to elevate your smartwatch experience. Featuring a stunning 1.91-inch AMOLED display, it delivers vibrant visuals and customizable watch faces to suit your style."
+    },
+    {
+      "id": 6,
+      "name": "Elite Smart Watch",
+      "image": "https://i.pinimg.com/736x/44/74/3f/44743f9a5fbe19268da7439d55201c12.jpg",
+      "price": 19000,
+      "originalPrice": 22000,
+      "description": "The Elite Smart Watch redefines sophistication with its premium design and advanced features, perfect for both fitness enthusiasts and style-conscious users. Featuring a high-resolution AMOLED display, it provides vibrant visuals and customizable watch faces that match your personal style."
+    },
+    {
+      "id": 7,
+      "name": "Oppo Watch X Mars Brown at Etoren",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBYoecbF33YnrH8G62RoX1CLfFLcVKbFM_eZs6wrbfveZ3tyPNbudWz23j9ZtfLpuISUSBKOnJeLUTNEtB2jSyr6v_hfYAnHB-NJmrZ8CzidVG9FjCrMni&usqp=CAE",
+      "price": 20000,
+      "originalPrice": 30000,
+      "description": "Experience elegance and innovation with the Oppo Watch X in Mars Brown, rated an impressive 4.7 out of 5 stars based on 3 product reviews. This premium smartwatch features a striking AMOLED display that delivers vibrant colors and sharp details"
+    },
+    {
+      "id": 8,
+      "name": "OPPO Watch 3 Pro with 1.91′′ LTPO AMOLED Display Platinum Black",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcShPhMK4SAxf1xmwAUvTP-6PGjMiMacV92T8fEXGiINjxl3sOw1jpw8QZygOtcbMtaQvgCZ71wGMb1YD6kZUxzlzESh86bt_mymAye3qfXzl5txw57qjMJk&usqp=CAE",
+      "price": 21000,
+      "originalPrice": 32000,
+      "description": "The OPPO Watch 3 Pro in Platinum Black seamlessly blends style and cutting-edge technology. Featuring a stunning 1.91-inch LTPO AMOLED display, it offers vibrant colors and sharp contrast, ensuring a captivating "
+    }
+  ],
+  "Accessories": [
+    {
+      "id": 1,
+      "name": "OPPO SUPERVOOC 80W Power Adapter",
+      "price": 1999,
+      "originalPrice": 6999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/fbkZKbL1Dnb2SOMw.png",
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    },
+    {
+      "id": 2,
+      "name": "OPPO SUPERVOOC 45W Power Adapter",
+      "price": 1999,
+      "originalPrice": 3599,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/18/udxPsc9kRKZYqUlR.png",
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    },
+    {
+      "id": 3,
+      "name": "OPPO SUPERVOOC 33W Power Adapter",
+      "price": 999,
+      "originalPrice": 2999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202302/15/U457tKgiw7XzkF4Z.png",
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    },
+    {
+      "id": 4,
+      "name": "OPPO 10W Power Adapter by Oppo",
+      "price": 599,
+      "originalPrice": 1999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/fbkZKbL1Dnb2SOMw.png"
+      ,
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    },
+    {
+      "id": 5,
+      "name": "OPPO 80W SUPERVOOC Car Charger",
+      "price": 2499,
+      "originalPrice": 4999,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/27/obO2kJ7YNs3jTGQk.jpeg",
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    },
+    {
+      "id": 6,
+      "name": "OPPO 80W SUPERVOOC Car Charger",
+      "price": 299,
+      "originalPrice": 499,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/VZ43U8K2UNvUkbQS.png",
+      "description":"Enhance your Oppo experience with a wide range of premium accessories, designed to complement your devices with style and functionality. From protective cases to cutting-edge audio devices, each accessory is crafted to provide the best in performance and durability.",
+      "offer":"20% Off on Fast Chargers: Stay powered with Oppo’s fast chargers at a special discount. Charge your device in no time with advanced fast-charging technology."
+    }
+  ]
+}
